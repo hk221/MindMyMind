@@ -140,6 +140,7 @@ export default function StatisticsDialog({
       sx={{
         width: "90%",
         maxWidth: "1400px",
+        height: "90%",
         overflow: "auto",
         margin: "20px auto",
         padding: 4,

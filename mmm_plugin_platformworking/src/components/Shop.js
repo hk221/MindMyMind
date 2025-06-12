@@ -166,7 +166,7 @@ export default function Shop({ open, onClose }) {
         ) : (
           <>
             {/* Trophy cabinet section */}
-            <Typography variant="h4" sx={{ marginBottom: 2 }}>
+            <Typography variant="h4" sx={{ marginBottom: 2, justifyContent: "center", textAlign: "center" }}>
               Trophy Cabinet 🏆
             </Typography>
             {trophies.length > 0 ? (
@@ -181,7 +181,9 @@ export default function Shop({ open, onClose }) {
                         marginBottom: 2,
                         padding: 2,
                         width: "90%",
-                        textAlign: "left",
+                        height: "90%",
+                        overflow: "auto",
+                        textAlign: "center",
                       }}
                     >
                       <Typography variant="h6">

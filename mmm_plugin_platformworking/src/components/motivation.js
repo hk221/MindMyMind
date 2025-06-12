@@ -155,6 +155,8 @@ export default function MotivationPage({ onClose, addItem }) {
         maxWidth: "1400px",
         margin: "20px auto",
         padding: 4,
+        height: "90%",
+        overflow : "auto",
         background: "linear-gradient(135deg, #e0f7fa 0%, #e0f2f1 100%)",
         borderRadius: "12px",
         boxShadow: "0px 6px 15px rgba(0, 0, 0, 0.1)",
