@@ -1,0 +1,17 @@
+
+{
+  "comment1": "This file contains the Firebase service account key in JSON format.",
+  "comment2": "It is used to authenticate and authorize access to Firebase services.",
+  "comment3": "It can be replaced with your own Firebase service account key.",
+  "type": "service_account",
+  "project_id": "quizdatabase-6eda3",
+  "private_key_id": "ba8258469ba3b99e175e03fc8d1e8aa160ec2b03",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8D/VJsi7TyT0/\nudep5tjmqxfb6VShDdfMqam8e77628d0Oxx75CpXz6Vc3NjOw7YCrtnIpk2TXJ4c\nXUMFKjz6z5tZpGmnT9ckkdk/kLDBGNrNtDrTZacoDbivXyIqRrFSxWDgcX9Dahsu\nu+Kp4CNdSXoVpXgI71SMVfWHPHM5BC7SvNfTeqE9BH2DVmM8WIgWW+ddWkqk0zWT\nmZEs330/evIN18FbwFNQZ0BNapkWffwuT/Tq5B88rAZcyJhJtVJ4g6Ta09kMc+7K\n0N1IPgM+WMs/A5fB/nSZ/9GrZdAirZBe/CAcDd/oiZ0RCinlc60HzGs+A8eWcc8U\nY08Wg4fJAgMBAAECggEAWrpyMosxl0A7ed6NQq0Z0HMTkCdKCmcUyOrDdijXMsxM\nNfF8pPKnUPTfCOWM/Xei/Dlh3TEKNQFWUEXYGwpNIA1/m6g7xpm4qC5q+oUyGP6G\nNP5x8OHWWncANi812uJ/EvkhazamWJ48nffL+vuk5BEaQo4xUlIwXoHr8cICrqrW\n5L0fBAmva8Jz9JdWEZaDGWZW2THXb1+1yFLqpxDgT+JIRF0FAtNoc56+w3R7ZAEg\nJRXItN3NLWUkLwVadxgpeJYD0sSxJcJS2v32cRSmnUaiuDOSSeZ1dyhNc6oL5k5m\ni5VTPbLIpRyIM5WNK/JJHZnrGzvCYdv77UwzmveUpwKBgQDv1jIqIiprGR+jAtmj\nwuRri/gw2Ao4u7HljnUbqELeORiheFH35le7sgtB6R+siuUNNydVhfBfglyWy28Y\nTXWY5wkVyGYbbLlsha7yuWhid7/fsp6ouJEhrtW9zBhdZT8ktD2ZJf51EuE6OyQM\nxpXz4zVvD+xaRb83hdr+CRnG6wKBgQDIvIU1ATgFzpIzKEIjWldNNxDmsDAP9SUC\n9GN48nf9AI7BvU3HSjmbwoatRcUV4ByJj0YEAPTyaHH41MmTYbFGC6GGfsWG1mPh\nZo+/51wiXYgPAGHiqDYGIsl+iRaIANjE2mgxUC9v896VWbVZS74scSgfTHGBvxo1\nUPSWaolnGwKBgQDibZXkw2bKv+hnbPxuqEQg6P+DlaNo1oNol2smll+zD7KaV08D\nvTsdIEWSj3Zw3pzLMkP3cUFz2k5xq1SSXCbnGVAxeYY05BvXQgrea38KX8YNesRh\nxAZ5B2gSDUr/eeP4UhZJrV4jx5RN9qHdUesmW18KIL1iqLCTydLrvUnRywKBgCrl\nhn3WPdeX1kxSXRfa9W8NxnHV0t+GHpusCBnPju6lENy8DIP7C6aKgmdC0qQjGVYY\nJPk0DyRCR6DKMC1rogt67tCkBKgU5pFDbpKu6VR6slmqVkCue6UCCBcfSo5Tx/8B\nQWTQYuLEtZsq6YMkmYY7xDw0BMmaQgqEu0/tgmFjAoGAKH3xPeALAZqhaPiYSlbL\n6/cyXBpDCdRyv41MWqeZy1+abRAilVguE/EqoZLv52aADBEM0X62LsKeEu5fjREm\nHSd9dtoOh20kKrXySDNLD8sMV0v9vgJKMD95dhb7j06ZhwjBW9Rzqu6hfIIuGa2l\nBW5EE1YQ9zfbq+t9ZUC1uEY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@quizdatabase-6eda3.iam.gserviceaccount.com",
+  "client_id": "116842928867661627522",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40quizdatabase-6eda3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

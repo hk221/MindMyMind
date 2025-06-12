@@ -1,0 +1,14 @@
+{
+  "comment": "This is a service account key for Firebase Admin SDK. Keep it secure and do not expose it publicly.",
+  "type": "service_account",
+  "project_id": "quizdatabase-6eda3",
+  "private_key_id": "fda3a11425236361b96de48052313a43a99cce3c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4+t6fsL40w8qG\nhlpou4MNyEs0WoUg2xqWYa+5w7RQmG2Qlj1OyJFKYdFfSX1DJINaJlWAc89UVUb0\nUkErL2lWa+G+eL105eSGzegO+RNMWGP2DRDhrc1qc0NhGy42u3zG5n9mCYCjdpP/\nVvKAZ1wS0yqj9ujHJKz+bh3zqaR/iJazTku77XMt1OaEazEGee2+Dr7DEAtRp+Im\nebiFfKdixt9VzgQoqb6dsFh4PenLvJDHcfQG3DuXNE+Y3QjL5nb3dWFExQbUpTTk\nlHVcwWa8zs0bVrnYCqx0/cD3qPeQ2XoZSHzdSy8py4gi/v3DjYA7ts96LoeI3N0r\nD54vQHlTAgMBAAECggEAGikcmAACfmrcNxdELQCr4aScgix1HHbwNSlelUqIs0dD\nY4nj5ML3zUm1NyEpDnhY/URjnjWCsl4XGVGStt1PK/I47FueC6zBm5D+SzPNl2P+\nyxsA8rHGVdI0SsTxzbrJREXv6YnZgASynI96307+1gi4RJUUSam1r4v6P24T/hcg\n0jXbqqq/aDoodJHur0donMKR3Ckj3K3VJQWHd+aB1U7sTuias/A5NORPUx9NyXmB\n3xPm+LSuB2Hi+KhJilwr5ZpHIoqMTxdy32UA2beO0H2kRreGVpBalN3x1PcIccXZ\njNWSaPxXPlE1BOv/s4GxpdohrrFIj2gXW7gRwreP5QKBgQDts/CQkOxXMAqqXQbZ\nhJQZBY3eNiz9bbRDO+J+QiPp4Mq/Ol6pY1NxUeZTKtn8V4Hsu2VQTzUI4Wbapme+\n1b0ytf5hJ80RgYrKgf8PyYk4SB/k1F2oh+v0tw/PqrlHsk+pvM+Big4xQ6B6xOCx\nMXtaenXoUv+vlGxdlf+vHFCT7wKBgQDHN/80Hf9aeDApxCQafO/08viKFAUYh4As\nFqP5hdDeb7h+Wk0vXTlS+AebuZ4SMgA93OhUwusHA07Or0cy4XClAKYPIT6kpDeg\nCsgZ45Vp0xdRqrrIMwC0QXGFVbIYjlylRKyY+yLNIX+MMna494KEVv1wZ2M7iPpb\nw4kefYd83QKBgCGvGQzzbHpidXB05E6Yqf/tuI/fr3puPFg2uT7ZEovG7hQxKk7o\no19wkqoAbYmDwQaR+6ZowwQyJMghQpxZX4k7HwQXhsjPSaKuzz0mewp9tf9QVMFY\nGYjBFD2CXOUbEIzmE6WwsZgrlCcxlQGnGGrW5bR5ZoA0ETMl2WiwI38DAoGBALu1\nAVrj4NQnZooT60ih655KyO+hCWQhWB0yf/H9qd3MOnOjNhKorfiFBvYtoMjYH+4q\nFSa4Oabz8O9Bq74/OFngEJc05cdPi7HaNsxd6Uw6v0ANs8wqckFlYEcXhaUpjhWS\nbWX/Sr0pEPrSGZcSbwGuzUF5yMAxwmNwC+SUtnJpAoGAcyoudsATG9mh70BIVczA\nX3JnbHvBvG5JqAT0nKrq7zjL1es41fUMvq0C9nz/vEzR1y9yhEd0pYhWSMYmKZIq\nI5rCechhcTtdF57/w0qpXnZy7Wgp+73Rl9+nZkQDvEqoORipBLwDWBNbaG/gfjwL\nMMfMiiSYwoy9QQU8HytWDAQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@quizdatabase-6eda3.iam.gserviceaccount.com",
+  "client_id": "116842928867661627522",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40quizdatabase-6eda3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
